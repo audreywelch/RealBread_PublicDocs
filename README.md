@@ -10,4 +10,4 @@ Users can also submit bakeries they know of that are making real bread that may 
 So whether you're a fermentation enthusiast, or on the search for bread that can fit into a restrictive diet, the Real Bread app can help you be sure about where to find that "real bread." Free the glutens!
 
 ### For support inquiries please email:
-`welch.audreyl+realbread@gmail.com` 
+realbreadapp@gmail.com
